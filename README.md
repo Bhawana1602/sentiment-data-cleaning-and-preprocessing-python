@@ -74,15 +74,17 @@ The goal is to transform raw data into a clean and structured format suitable fo
 
 ## Project Structure
 
+```plaintext
 📁 sentiment-data-cleaning
-┣ 📂 data
-┃ ┣ raw_data.csv
-┃ ┗ cleaned_data.csv
-┣ 📂 notebook
-┃ ┗ data_cleaning.ipynb
-┣ 📂 images
-┃ ┗ project_image.png
-┣  README.md
+ ┣ 📂 data
+ ┃ ┣ raw_data.csv
+ ┃ ┗ cleaned_data.csv
+ ┣ 📂 notebook
+ ┃ ┗ data_cleaning.ipynb
+ ┣ 📂 images
+ ┃ ┗ project_image.png
+ ┣  README.md
+```
 
 ----------------------------------------------------------------------------------
 
