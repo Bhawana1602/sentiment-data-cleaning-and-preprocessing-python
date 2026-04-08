@@ -77,8 +77,8 @@ The goal is to transform raw data into a clean and structured format suitable fo
 ```plaintext
 📁 sentiment-data-cleaning
  ┣ 📂 data
- ┃ ┣ raw_data.csv
- ┃ ┗ cleaned_data.csv
+ ┃ ┣ Sentiment raw dataset.csv
+ ┃ ┗ cleaned_sentiment_data.csv
  ┣ 📂 notebook
  ┃ ┗ data_cleaning.ipynb
  ┣ 📂 images
